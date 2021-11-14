@@ -27,8 +27,9 @@ Sinclair ZX Spectrum emulator.
 
 ## Thanks
 
-- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which these are based
 - [Michael Ware](https://www.rustypixels.uk/) for innumerable help with the Next hardware and z80 asm
+- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which these are based
+- [Shiru](https://shiru.untergrund.net/software.shtml) for original ayfx player assembly code
 
 ## License
 
