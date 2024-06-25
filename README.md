@@ -16,7 +16,7 @@ a Sinclair ZX Spectrum emulator [CSpect](https://dailly.blogspot.com/) or
 "Clone or download" button at the top of this page or with Git using the
 following command:
 
-> git clone https://github.com/headkaze/zxnext_sfx.git
+> git clone https://github.com/benbaker76/zxnext_sfx.git
 
 3. Go to the zxnext_sfx directory and enter the following command:
 
